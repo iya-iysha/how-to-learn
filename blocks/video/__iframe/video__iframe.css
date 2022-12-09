@@ -1,0 +1,4 @@
+.video__iframe {
+  transform: translateY(50px);
+  border: 0;
+}
